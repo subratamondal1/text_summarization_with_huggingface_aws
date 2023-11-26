@@ -3,6 +3,10 @@
 ## End to end pipeline
 ### 1. Setup Github Repository
 ### 2. Project Template
+```bash
+# Keep template related logic in this file, on running it will automatically create the project template
+touch template.py 
+```
 ### 3. Project setup and requirements installation
 ### 4. Logging, Utils & Exception Module
 ### 5. Project Workflow
